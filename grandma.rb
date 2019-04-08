@@ -1,7 +1,7 @@
 speak_to_grandma = 
-if phrase = phrase.uppercase
+if phrase == phrase.uppercase
   return "NO, NOT SINCE 1938!"
-else if phrase = "I LOVE YOU GRANDMA!"
+else if phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 else
   return "HUH?! SPEAK UP, SONNY!"
