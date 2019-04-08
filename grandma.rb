@@ -1,4 +1,10 @@
-# Write a speak_to_grandma method.
+speak_to_grandma = 
+if phrase == phrase.uppercase
+  return "NO, NOT SINCE 1938!"
+else if phrase == "I LOVE YOU GRANDMA!"
+  return "I LOVE YOU TOO PUMPKIN!"
+else
+  return "HUH?! SPEAK UP, SONNY!"
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
